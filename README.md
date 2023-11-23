@@ -13,8 +13,8 @@ Develops a system attributing English texts to medical/non-medical classes via W
 - Uses Bag of Words, Stop Word List, Stemming, Lemmatization.
 - Utilizes pre-annotated Wikipedia texts.
 
-*Java Implementation (OpenNLP, GATE):*
-- Implements the system in Java (OpenNLP, GATE).
+*Python Implementation (OpenNLP, GATE):*
+- Implements the system in Python (OpenNLP, GATE).
 - Explores Naive Bayes, Logistic Regression.
 - Applies Bag of Words, Stop Word List, Stemming, Lemmatization.
 - Accesses Wikipedia API for annotated texts.
