@@ -3,7 +3,7 @@
 **Project Description: Text Classification for Medical/Non-Medical Attribution**
 
 **Overview:**
-Develops a system attributing English texts to medical/non-medical classes via Wikipedia analysis. Utilizes NLTK, SpaCy (Python), OpenNLP, GATE (Java), Naive Bayes, Logistic Regression, and processing techniques (Bag of Words, Stop Word List, Stemming, Lemmatization). Leverages Wikipedia API for annotated texts.
+Develops a system attributing English texts to medical/non-medical classes via Wikipedia analysis. Utilizes NLTK, SpaCy (Python), OpenNLP, Naive Bayes, Logistic Regression, and processing techniques (Bag of Words, Stop Word List, Stemming, Lemmatization). Leverages Wikipedia API for annotated texts.
 
 **Implementation Options:**
 
@@ -13,10 +13,10 @@ Develops a system attributing English texts to medical/non-medical classes via W
 - Uses Bag of Words, Stop Word List, Stemming, Lemmatization.
 - Utilizes pre-annotated Wikipedia texts.
 
-*Python Implementation (OpenNLP, GATE):*
-- Implements the system in Python (OpenNLP, GATE).
+*Python Implementation*
+- Implements the system in Python (OpenNLP).
 - Explores Naive Bayes, Logistic Regression.
-- Applies Bag of Words, Stop Word List, Stemming, Lemmatization.
+- Applies Stop Word List, Stemming, Lemmatization.
 - Accesses Wikipedia API for annotated texts.
 
 **Project Structure:**
